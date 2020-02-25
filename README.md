@@ -1,4 +1,4 @@
-# Warming my fingers with daily programming practice
+# Warming my fingers with occasional programming practice
 
 - Quick Refresher on Git
 
